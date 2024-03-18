@@ -3,7 +3,6 @@
 <a href="https://github.com/AmilyC/SwiftUI_final_project" target="blank"><B>作品內容展示</B></a> <BR>
 [![IMAGE ALT TEXT](mq2.jpg](https://github.com/AmilyC/SwiftUI_final_project)
 
-![test image](mq2.jpg =100x200)
 
 ## web程式設計_期中小組專題
 
