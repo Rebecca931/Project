@@ -1,7 +1,7 @@
 # Project
 ## 微型應用程式設計實務_期末小組專題
 <a href="https://github.com/AmilyC/SwiftUI_final_project" target="blank"><B>作品內容展示</B></a> <BR>
-[![IMAGE ALT TEXT](2022.jpg)](https://github.com/AmilyC/SwiftUI_final_project)
+[![IMAGE ALT TEXT](mq2.jpg)](https://github.com/AmilyC/SwiftUI_final_project)
 
 ## web程式設計_期中小組專題
 
